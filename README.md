@@ -1,6 +1,4 @@
 # Basic Auth WP REST API (v2)
-WP Plugin to enforce basic auth on all WP API 2.0 routes
-
 This is a WordPress plugin which enforces basic auth on all WP API 2.0 routes.
 
 ### Requirements
